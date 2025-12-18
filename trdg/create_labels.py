@@ -40,7 +40,7 @@ def create_labels():
                 print(f"Xato fayl: {filename} - {e}")
 
     print("------------------------------------------------")
-    print(f"✅ TUGADI! Jami {count} ta rasm 'labels.txt' ga yozildi.")
+    print(f"TUGADI! Jami {count} ta rasm 'labels.txt' ga yozildi.")
     print(f"Fayl manzili: {LABEL_FILE}")
 
 if __name__ == "__main__":
